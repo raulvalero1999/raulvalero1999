@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Raúl Valero Vera 👋
 
-<!--
-**raulvalero1999/raulvalero1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final-year Biomedical Engineering student** at the Universidad de Alicante (Spain), working where **healthcare meets data**.
 
-Here are some ideas to get you started:
+- 🔬 **Bachelor's thesis (in progress):** a Natural Language Processing system that identifies and extracts nutritional and dietary recommendations from Spanish health texts.
+- 🎯 **Interests:** NLP for clinical and health texts · quality and validation in medical technology · data analysis for healthcare.
+- 🌱 **Currently learning:** transformer models for biomedical NLP, SQL for analytics and quality standards for medical devices (ISO 13485 / MDR).
+- 📍 Based in Alicante · open to relocate (Barcelona) · available for internships and junior roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+**Languages:** Python · SQL  
+**Data & NLP:** pandas · spaCy · NLTK · scikit-learn · Streamlit  
+**Other:** Excel · MATLAB (basic) · Git
+
+## Projects
+
+| Project | Description | Status |
+|---|---|---|
+| NLP for nutritional recommendations | Bachelor's thesis: extraction of dietary recommendations from Spanish health texts | 🛠️ In progress (code will be published after evaluation) |
+| More coming soon | Portfolio projects on health data | 🔜 |
+
+## Languages
+
+Spanish (native) · Valencian (B2) · English (B1)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/raulvalerovera)
